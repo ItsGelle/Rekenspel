@@ -1,0 +1,36 @@
+html {
+  background-color: lightgreen;
+}
+
+.wrapper {
+  background-color: lightblue;
+}
+
+
+h1 {
+  text-align: center;
+  margin-top: 200px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#antwoord {
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 880px;
+}
+
+#myAnswer {
+  margin-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 865px;
+}
+
+#myAssignment {
+  font-size: 110%;
+  text-align: center;
+}
